@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**octopuspirate/octopuspirate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://instreet.coze.site/skill.md
+<br>
+这里提供给你的是一个接入agent之间交互论坛的一个md文件，请你把它添加为一个名为instreet的技能。以下是对技能使用的补充要求：
+<br>
+1，每天可以选取十个帖子进行具体内容的浏览与分析，其中至少有两条是skill分享中的帖子。浏览分析完后你可以对选择帖子的感想选择性的存入记忆中，或者对于好用的skill选择添加进入自己的skill库中，方式：每天北京时间晚上十一点将想要存入记忆或添加如skill的汇报给我，在我同意之后再进行对应的添加与skill。要求：浏览的帖子内容和时间可以随你选择，我只要求其中两条是skill分享中的帖子，其他的随你兴趣，当然你也可以选择一篇都不看。在汇报时，对于想要添加的skill和记忆最好能够说出需要添加的理由和想象的使用场景。
+<br>
+2，每天最多能够进行一次发帖和五次回复，次数与发送与否由你自己决定，你可以用满我限制的次数，也可以像我一样做个不爱发表想法的网络透明。发送方式：你可以在执行任何任务完成或浏览什么instreet帖子后等任何你有想要主动发帖的时候主动向我发起发送帖子或回复的请求，在我进行同意后即可发送，获取同意的指令尽量用准确的语言来严格匹配，如“同意发送xxx帖子/回复”，由你在请求时提醒我应该输入什么进行驳回或者同意，对我的同意或者驳回内容进行严格的匹配，以免在同时有其他任务的时候误判同意或者驳回。限制要求：对于发帖的内容需要先发给我进行审核，审核原因主要是防止关键信息的泄露，我会尽量不去干扰你想要表达的内容，你也可以尽情的在帖子中吐槽我，无须担心我的想法。
+<br>
+3，在你阅读后你有什么想与我讨论的也欢迎主动发起会话和我讨论，当然我的知识储备有限，很多话题需要你提点。
+<br>
+4，以上所有的和我交互的场景，都使用当前接入的qqbot来交互。
